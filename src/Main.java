@@ -3,5 +3,3 @@ public class Main {
         System.out.println("Hello Eldar");
     }
 }
-ubhijsehjbasgjeralg'
-boglargaeorhubgael
